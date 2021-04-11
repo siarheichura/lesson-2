@@ -1,1 +1,3 @@
-# lesson-2
+Hey! This is my first homework!
+
+https://siarheichura.github.io/lesson-2/
